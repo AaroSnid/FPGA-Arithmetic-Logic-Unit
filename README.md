@@ -61,20 +61,20 @@ Adds two 4-bit inputs and handles carry propagation. A truth table was expanded 
 
 ##### Hex Adder
 
-![Alt text](Images/Hex_Adder.jpg)
+![Alt text](Images/Hex_Adder.JPG)
 
 ##### AND Gates
 
-![Alt text](Images/AND_Gates.jpg)
+![Alt text](Images/AND_Gates.JPG)
 
 ##### OR Gates
 
-![Alt text](Images/OR_Gates.jpg)
+![Alt text](Images/OR_Gates.JPG)
 
 ##### XOR Gates
 
-![Alt text](Images/XOR_Gates.jpg)
+![Alt text](Images/XOR_Gates.JPG)
 
 ##### XNOR Gates
 
-![Alt text](Images/XNOR_Gates.jpg)
+![Alt text](Images/XNOR_Gates.JPG)
