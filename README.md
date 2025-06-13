@@ -1,6 +1,8 @@
 # FPGA-Arithmetic-Logic-Unit
 Created as a part of the LAB #2 for ECE 124
 
+![Alt text](Images/Board_Desc.png)
+
 This project implements a simple arithmetic logic unit (ALU) on an FPGA using VHDL. The ALU supports basic bitwise logic operations (AND, OR, XOR, XNOR) as well as 4-bit binary addition. Input is provided through switches and pushbuttons, and output is displayed on a dual seven-segment display and LEDs. All components of the project, except the provided segment7_mux.vhd file which drives the display, were developed by myself and Ada Loveless.
 
 ### Project Overview
@@ -56,10 +58,23 @@ Adds two 4-bit inputs and handles carry propagation. A truth table was expanded 
   - LEDs: Display the binary result of ALU operations
 
 #### Project Images
-FPGA Output Example
 
-Placeholder
+##### Hex Adder
 
-Simulation Waveform Example
+![Alt text](Images/Hex_Adder.jpg)
 
-Placeholder
+##### AND Gates
+
+![Alt text](Images/AND_Gates.jpg)
+
+##### OR Gates
+
+![Alt text](Images/OR_Gates.jpg)
+
+##### XOR Gates
+
+![Alt text](Images/XOR_Gates.jpg)
+
+##### XNOR Gates
+
+![Alt text](Images/XNOR_Gates.jpg)
